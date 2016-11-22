@@ -29,18 +29,18 @@ If “crime spots” button is clicked it will give all marked crime spots of a 
 
 ### Showing Crime Details
 
-<img src="crimedetails.png)" width="360" height="640">
+<img src="crimedetails.png" width="360" height="640">
 
 ### Nearest Police station
 By clicking on “Police Contact” button and entering a location, nearest police stations will be found. If a specific crime is clicked from map it will also provide nearest police stations from the spot where that crime was happened. It will provide the shortest path to a specific police station from a location.
 
-<img src="policecontact.png)" width="360" height="640">
+<img src="policecontact.png" width="360" height="640">
 
 ### Adding new crime spot
 By long click on a place on the map new crime spot can be added with crime type and user experience. User also can add the approximate time and date. In our application we specified many crime types. User can select anyone of these items.
 
-<img src="addnewcrimespots.png)" width="360" height="640">
-<img src="addnewcrimespots2.png)" width="360" height="640">
+<img src="addnewcrimespots.png" width="360" height="640">
+<img src="addnewcrimespots2.png" width="360" height="640">
 
 ### Filtering
 This application also provides crimes of last week, last month, last year etc.
