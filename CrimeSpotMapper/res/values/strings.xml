@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crime Spot Mapper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_crime_spot">Save Crime Spot</string>
+    <string name="show_crime_spot">Show Crime Spot</string>
+    <string name="normal">Normal</string>
+    <string name="nearest_police_station">Nearest Police Station</string>
+    <string name="sattelite">Satellite</string>
+    <string name="none">None</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="current_location">Current Location</string>
+    <string name="go">Go</string>
+    <string name="prompt_location">Location:</string>
+    <string name="title_activity_main">Crime Spot Mapper</string>
+    <string name="title_activity_add_new_crime_spot">Crime Spot Mapper</string>
+    <string name="add_new_spot">Add New Spot</string>
+    <string name="title_activity_victim_info_details">Crime Spot Mapper</string>
+    <string name="title_activity_add_new_spot">Add</string>
+    <string name="about_dialog_text">This application shows marked crime spots and give the user nearest police contact location.\n\nBy clicking the \"Crime Spot\" button, crime spots can be seen.\n\nBy pressing long click on a spot in map, new crime spots can be added with types of crime and user experience.\n\nFor nearest police contact location, \"Police Contact\" button need to be clicked. This App also provides the path of police contact location from a specified location.\n\nThis application is still in development process. Join the evolution sending your suggestions by email. Thanks.</string>
+
+    <string-array name="crime_type">
+        <item>Robbery</item>
+        <item>Bikers gang robbery</item>
+        <item>Motor Vehicle Theft</item>
+        <item>Hijacking</item>
+        <item>Parking watcher</item>
+        <item>Robbery and killing</item>
+        <item>Drug Addicts</item>
+        <item>Garbage</item>
+        <item>Robbery at ATM</item>
+        <item>Homicide</item>
+        <item>Loud Sound</item>
+        <item>Sexual violence</item>
+        <item>Vandalism</item>
+        <item>Crime against animals</item>
+        <item>Dangerous place</item>
+    </string-array>
+    <string-array name="crime_ic">
+        <item>ic_assalto</item>
+        <item>ic_moto</item>
+        <item>ic_carro</item>
+        <item>ic_sequestro</item>
+        <item>ic_flanelinha</item>
+        <item>ic_latrocinio</item>
+        <item>ic_drogas</item>
+        <item>ic_lixo</item>
+        <item>ic_banco</item>
+        <item>ic_homicidio</item>
+        <item>ic_som</item>
+        <item>ic_sex</item>
+        <item>ic_vandalismo</item>
+        <item>ic_animal</item>
+        <item>ic_favela</item>
+    </string-array>
+    <string-array name="crime_desc">
+        <item>Taking property from a person by force, threat of force, or fear, in public or private places</item>
+        <item>Robbery by motorcycle, bicycle or similar</item>
+        <item>Theft of a car, truck, motorcycle, or any motor vehicle</item>
+        <item>Hijacking in banks or similar</item>
+        <item>Action parking watchers in public lots (extortion)</item>
+        <item>Robbery-murder</item>
+        <item>Frequented venue by drug addicts</item>
+        <item>Illegal garbage disposal on streets</item>
+        <item>Robbery after leave bank ATM</item>
+        <item>Murder, homicide or assassination of persons</item>
+        <item>Places with loud prohibited during opening hourse</item>
+        <item>Sexual crime against women</item>
+        <item>Willful, malicious destruction, damage, or defacement of property</item>
+        <item>Cruelty and maltreatment of animals</item>
+        <item>Location of dangerous places</item>
+    </string-array>
+
+    <string name="title_activity_police_contact">Nearest Police Contact</string>
+    <string name="title_activity_crime_spot_details">View</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#EEF3FA"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="3"
+        android:background="@drawable/home_logo_mark" >
+    </LinearLayout>
+
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/btn_crime_spot"
+                style="@style/main_activity_button"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/crime_map_button"
+                android:text="Crime Spots" />
+
+            <Button
+                android:id="@+id/btn_police_contact"
+                style="@style/main_activity_button"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/police_button"
+                android:text="Police Contact" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/btn_about"
+                style="@style/main_activity_button"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/about_button"
+                android:text="About" />
+
+            <Button
+                android:id="@+id/btn_exit"
+                style="@style/main_activity_button"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/exit_button"
+                android:text="Exit" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
