@@ -20,27 +20,27 @@ It's a Google Map based Android Application. Through this App people can mark cr
 
 ## Features
 
-![Home Screen](home.png)
+<img src="home.png" width="360" height="640">
 
 ### Showing marked crime spots
 If “crime spots” button is clicked it will give all marked crime spots of a locality. If “Find” button is clicked it will ask for a location and then nearest crime spots of that entered location will be shown.
 
-![Crime Spots](crimespots.png)
+<img src="crimespots.png" width="360" height="640">
 
 ### Showing Crime Details
 
-![Crime Details](crimedetails.png)
+<img src="crimedetails.png)" width="360" height="640">
 
 ### Nearest Police station
 By clicking on “Police Contact” button and entering a location, nearest police stations will be found. If a specific crime is clicked from map it will also provide nearest police stations from the spot where that crime was happened. It will provide the shortest path to a specific police station from a location.
 
-![Nearest Police Contact](policecontact.png)
+<img src="policecontact.png)" width="360" height="640">
 
 ### Adding new crime spot
 By long click on a place on the map new crime spot can be added with crime type and user experience. User also can add the approximate time and date. In our application we specified many crime types. User can select anyone of these items.
 
-![Add New Crime Spots](addnewcrimespots.png)
-![Crime List](addnewcrimespots2.png)
+<img src="addnewcrimespots.png)" width="360" height="640">
+<img src="addnewcrimespots2.png)" width="360" height="640">
 
 ### Filtering
 This application also provides crimes of last week, last month, last year etc.
