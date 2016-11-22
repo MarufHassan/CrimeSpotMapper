@@ -3,7 +3,7 @@
 ## Description
 It's a Google Map based Android Application. Through this App people can mark crime spots. Nearest police stations can be found. Police can detect those marked spots and will take proper actions
 
-![Splash Screen](splash.jpg)
+<img src="splash.jpg" width="360" height="640">
 
 ## Why this App?
 
